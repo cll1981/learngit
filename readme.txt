@@ -5,3 +5,4 @@ this new line.v1.3
 this is new line v1.4
 Creating a new branch is quick.
 try --no-ff git merge.
+Git is a free software.
